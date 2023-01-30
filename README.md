@@ -1,4 +1,4 @@
-# How-s-My-City
+# How's My City
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://media.tenor.com/6L0Z64X7c40AAAAC/baltimore-county-heat-wave.gif" alt="Weather"></a>
